@@ -5,7 +5,7 @@ faker.locale = "en";
 debugger;
 //console.log(faker.lorem.sentences())
 
-console.log(faker.name.findName())
+console.log(faker.name.findName());
 console.log(faker.internet.email())
 return;
 console.log(faker.date.recent())
