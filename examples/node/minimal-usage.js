@@ -4,7 +4,6 @@ var faker = require('../../index');
 faker.locale = "en";
 debugger;
 //console.log(faker.lorem.sentences())
-console.log(faker.cosmetics)
 return;
 console.log(faker.name.findName())
 
